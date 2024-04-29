@@ -18,3 +18,4 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Source: https://github.com/phoenixframework/phoenix
   Practicing github commit
 2nd test to create branch
+3rd test from git to github
